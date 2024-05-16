@@ -9,11 +9,11 @@ Use this url to install https://github.com/xm-space/UnityDarkUI.git
 
 ### install before
 
-![normal](C:\Users\S\Desktop\normal.png)
+![normal](normal.png)
 
 install after
 
-![dark](C:\Users\S\Desktop\dark.png)
+![dark](dark.png)
 
  
 
