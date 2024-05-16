@@ -1,0 +1,8 @@
+{
+    "name": "com.xiaomu.unity-dark",
+    "displayName": "Unity Dark UI",
+    "version": "1.0.0",
+    "unity": "2021.1",
+    "keywords": ["Unity Dark UI"],
+    "description": "Unity Dark Theme.  "
+  }
